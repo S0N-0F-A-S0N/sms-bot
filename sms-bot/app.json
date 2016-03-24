@@ -1,0 +1,15 @@
+{
+    "name": "Python Kik Bot Starter Kit",
+    "description": "A simple chat bot built using the Kik Chat Engine API",
+    "repository": "https://github.com/kikinteractive/bot-starter-kit-python",
+    "env": {
+        "USERNAME": {
+            "description": "SMSbot",
+            "required": true
+        },
+        "API_KEY": {
+            "description": "6fe6f6dd-7970-4033-ae59-07bbd2f5d1cc",
+            "required": true
+        }
+    }
+}
